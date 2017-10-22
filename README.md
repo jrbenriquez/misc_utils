@@ -2,4 +2,4 @@
 Miscellaneous utility scripts for lame tasks
 
 
-1.) Compile text file to a single xlsx file (openpyxl, pandas)
+1.) compile_to_excel - Compile text file to a single xlsx file (openpyxl, pandas)
